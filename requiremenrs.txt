@@ -1,0 +1,4 @@
+selenium
+requests
+matplotlib
+numpy
