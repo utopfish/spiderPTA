@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 pic/
-result/
+*.xlsx
 # C extensions
 *.so
 
