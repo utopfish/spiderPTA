@@ -1,0 +1,7 @@
+selenium
+requests
+matplotlib
+numpy==1.16.4
+opencv-python
+openpyxl
+pandas
