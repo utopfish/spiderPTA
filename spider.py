@@ -155,8 +155,10 @@ class PTA():
 
 if __name__ == '__main__':
     url ='https://pintia.cn/problem-sets/1330901882209357824/submissions'
-    account = '290970344@qq.com'
-    password = 'nwuipmi2020'
+    #账号
+    account = ''
+    #密码
+    password = ''
     h = PTA(account,password)
     h.run(url)
 
